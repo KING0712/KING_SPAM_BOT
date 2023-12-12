@@ -1,15 +1,6 @@
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
-
-<!--
-**gamingbuddyyy/gamingbuddyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/gamingbuddyyy/count.svg" />
-</p>
-
-<h1 align="center"><b> SAHENSHAH 𝙓 𝕾𝖕𝖆𝖒🔥</b></h1>
+<h1 align="center"><b>🖤 𝐊𝐈𝐍𝐆 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 🖤</b></h1>
 
 <h4 align="center"> 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
