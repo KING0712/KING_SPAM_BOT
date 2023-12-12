@@ -38,7 +38,7 @@ async def ping(e):
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        await e.reply(f" thoda sabar kar munna, bot is staring 🤧")
+        await e.reply(f"thoda sabar kar munna, bot is staring 🤧")
         try:
             await MK1.disconnect()
         except Exception:
@@ -99,7 +99,7 @@ sudousers = os.environ.get("SUDO_USER", None)
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
 async def addsudo(event):
     if event.sender_id == OWNER_ID:
-        ok = await event.reply(f"ye le beta sudo, chal ab bhaag yaha se")
+        ok = await event.reply(f"ye le beta sudo, chal ab king ko ek bar papa bol")
         mks = "SUDO_USER"
         target = ""
         if HEROKU_APP_NAME is not None:
