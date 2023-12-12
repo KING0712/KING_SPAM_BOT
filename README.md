@@ -25,4 +25,4 @@
 
 
 # MY TELEGRAM ID
-<a href="https://t.me/l_MR_ll_KING_l"><img src="https://img.shields.io/badge/TELEGRAM ID%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/l_MR_ll_KING_l"><img src="https://img.shields.io/badge/TELEGRAMID%20Channel-red.svg?logo=Telegram"></a>
