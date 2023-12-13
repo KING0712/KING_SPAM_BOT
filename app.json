@@ -8,7 +8,7 @@
         "KINGX",
         "SpamBots"
     ],
-    "repository": "https://github.com/gamingbuddyyy/SK_spambot",
+    "repository": "https://github.com/KING0712/KING_SPAM_BOT",
     "env": {
      "CMD_HNDLR": {
             "description": "Custom command handler.",
