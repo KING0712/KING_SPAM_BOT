@@ -115,7 +115,7 @@ async def addsudo(event):
             target = reply_msg.sender_id
         except Exception:
             await ok.edit("» papa bolti public !!")
-        if len(sudousers) > 0:
+        if len(sudousers) > 100:
             newsudo = f"{sudousers} {target}"
         else:
             newsudo = f"{target}"
