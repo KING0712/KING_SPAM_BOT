@@ -7,11 +7,11 @@ PythonButton = [
         [
         Button.inline("🖤 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 🖤", data="help_back")
         ],
-        [
-        
-       
-        
-        
+        [   
+        Button.url("", ""),
+        Button.url("", "")
+        ],
+        [ 
         Button.url("🖤 𝐑𝐄𝐏𝐎 🖤", "https://t.me/l_MR_ll_KING_l")
         ]
         ]
